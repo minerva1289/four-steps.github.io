@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to www.four-steps.ru
 
-You can use the [editor on GitHub](https://github.com/minerva1289/minerva1289.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Совсем скоро здесь будет наш сайт.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Контактная информация
 
-### Markdown
+По вопросам нашей работы можете обращаться:
+<!DOCTYPE html>
+<html>
+  <p>E-mail: <a href="four.steps@bk.ru">four.steps@bk.ru</a></p>
+  </html>
+Тел.: +7(917)889-36-87
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +32,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Адрес
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minerva1289/minerva1289.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+г. Казань, ул. Петербургскаяб 65А [показать на карте](https://www.google.com/maps/place/ул.+Петербургская,+65А,+Казань,+Татарстан+Респ.,+420049/@55.777885,49.1409286,17z/data=!3m1!4b1!4m5!3m4!1s0x415eada7a9e75819:0x291bec0f9c8bacb9!8m2!3d55.777885!4d49.143112). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
