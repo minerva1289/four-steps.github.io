@@ -6,9 +6,9 @@
 
 По вопросам нашей работы можете обращаться:
 <html>
-  <p>E-mail: <a href="four.steps@bk.ru">four.steps@bk.ru</a></p>
-  </html>
-Тел.: +7(917)889-36-87
+  <p>E-mail: <a href="mailto:four.steps@bk.ru">four.steps@bk.ru</a></p>
+    <p>Тел.: <a href="tel:+79178893687">+7(917)889-36-87</a></p>
+   </html>
 
 ### Адрес
 
